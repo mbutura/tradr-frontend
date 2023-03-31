@@ -1,11 +1,13 @@
+import './Home.css'
 import React from 'react'
+import Banner from './Banner'
 import Header from '../../components/Header'
 
 function Home() {
   return (
     <div>
         <Header />
-        {/* <div class="h-72 bg-gradient-to-r from-purple-600 to-blue-600"></div> */}
+        <Banner />
     </div>
   )
 }

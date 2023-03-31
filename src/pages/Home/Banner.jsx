@@ -1,8 +1,6 @@
 function Banner() {
     return (
-        <div>
-            <p>Heloooooooo</p>
-        </div>
+        <div className="banner"></div>
     )
   }
   

@@ -1,0 +1,8 @@
+.banner{
+  height: 60vh;
+  width: 100%;
+  color: #fff; 
+  background: url("https://img.freepik.com/free-photo/portrait-smiling-african-american-male-college-student-walking-with-coffee-isolated-white-wall_231208-638.jpg?w=1380&t=st=1680209498~exp=1680210098~hmac=7f467696735855c60bb4a1cea7a7c6c3032de8fb349af2c554e45e2c19c4ed11") 130% 50% / 50% auto no-repeat, 
+              linear-gradient(101.62deg, #BFACE2 0%, rgba(255, 255, 255, 0) 30.73%);
+
+}
